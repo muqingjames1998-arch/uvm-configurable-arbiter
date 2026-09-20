@@ -1,0 +1,7 @@
+work/
+transcript
+vsim.wlf
+*.log
+*.wlf
+*.bak
+*.tmp
